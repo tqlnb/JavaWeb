@@ -218,8 +218,6 @@ CREATE TABLE 表名 (
 
 知道了创建表的语句，那么我们创建创建如下结构的表
 
-<img src="assets/image-20210721230824097.png" alt="image-20210721230824097" style="zoom:80%;" />
-
 ```sql
 create table tb_user (
 	id int,
