@@ -512,7 +512,7 @@ SELECT 字段列表 FROM 表名 WHERE 条件列表;
 
 <img src="day01笔记/assets/image-20210722190508272.png" alt="image-20210722190508272" style="zoom:60%;" />
 
-#### 8.2.2  条件查询练习
+#### 条件查询练习
 
 * 查询年龄大于20岁的学员信息
 
@@ -577,7 +577,7 @@ SELECT 字段列表 FROM 表名 WHERE 条件列表;
   select * from stu where english is not null;
   ```
 
-#### 8.2.3  模糊查询练习
+#### 模糊查询练习
 
 > 模糊查询使用like关键字，可以使用通配符进行占位:
 >
