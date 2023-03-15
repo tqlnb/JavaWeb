@@ -241,7 +241,7 @@ MySQL服务器
 
 在黑框里敲入`net start mysql`，回车。
 
-```java
+```
 net start mysql  // 启动mysql服务
     
 net stop mysql  // 停止mysql服务
