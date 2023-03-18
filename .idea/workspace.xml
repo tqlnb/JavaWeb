@@ -1,35 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2014f984-d0f4-4718-b032-c102c5bba029" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/day01-code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/day03-code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/druid.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/lib/druid-1.1.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/lib/mysql-connector-java-5.1.48.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/Test1/Brand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/Test1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/Test1/Test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/Test1/Test3update.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/Test1/Test4Delete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/druid/DruidDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/jdbc/MyJDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/jdbc/MyJDBCDemo2_DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/jdbc/MyJDBCDemo3_Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/jdbc/MyJDBCDemo4_Statement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/jdbc/MyJDBCDemo5_ResultSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/jdbc/MyJDBCDemo6_PreparedStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/jdbc/MyJDBCDemo7_UserLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/test/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/druid-1.1.12.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.48.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="2014f984-d0f4-4718-b032-c102c5bba029" name="变更" comment="IdeaChanges">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/factory/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/factory/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/factory/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/factory/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/factory/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day03-code/src/com/tql/factory/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/java/com/tql/MyBaitsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/java/com/tql/MyBaitsDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/java/com/tql/mapper/BrandMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/java/com/tql/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/java/com/tql/pojo/Brand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/java/com/tql/pojo/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/resources/com/tql/mapper/BrandMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/resources/com/tql/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/resources/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/main/resources/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code-mybaits/src/test/java/com/tql/test/MyBatisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/src/main/java/com/tql/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day04-code/src/test/java/com/tql/test/Test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/7b408186-468c-4c7f-8a23-bd3c66566370.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/7b408186-468c-4c7f-8a23-bd3c66566370.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01笔记/mysql基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/day01笔记/mysql基础.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,11 +54,16 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Kotlin Interface" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.5/mybatis-3.5.5.jar!/org/apache/ibatis/session/SqlSession.class" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -57,114 +76,146 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "C:/Users/tql/IdeaProjects/JavaWeb/day03-code",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "工件",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "http.proxy"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tql/IdeaProjects/JavaWeb/day04-code-mybaits/src/main/resources/com/tql/mapper&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tql\IdeaProjects\JavaWeb\day04-code-mybaits\src\main\resources\com\tql\mapper" />
+      <recent name="C:\Users\tql\IdeaProjects\JavaWeb\day03-code\src\com\tql" />
+      <recent name="C:\Users\tql\IdeaProjects\JavaWeb\day04-code-mybaits\src\main\resources" />
       <recent name="C:\Users\tql\IdeaProjects\JavaWeb\day03-code" />
       <recent name="C:\Users\tql\IdeaProjects\JavaWeb\day03-code\lib" />
-      <recent name="C:\Users\tql\IdeaProjects\JavaWeb\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tql\IdeaProjects\JavaWeb\day04-code-mybaits\src\main\resources\com\tql\mapper" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.tql" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tql" />
       <recent name="com.tql.jdbc" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.Test4Delete">
-    <configuration name="DruidDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tql.druid.DruidDemo" />
-      <module name="day03-code" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn package" />
+      <command value="mvn test" />
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyBatisTest.testUpdate">
+    <configuration name="MyBatisTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day04-code-mybaits" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tql.druid.*" />
+          <option name="PATTERN" value="com.tql.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.tql.test" />
+      <option name="MAIN_CLASS_NAME" value="com.tql.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tql.Test1.Test2" />
-      <module name="day03-code" />
+    <configuration name="MyBatisTest.testSelectByCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day04-code-mybaits" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tql.Test1.*" />
+          <option name="PATTERN" value="com.tql.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.tql.test" />
+      <option name="MAIN_CLASS_NAME" value="com.tql.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="testSelectByCondition" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3update" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tql.Test1.Test3update" />
-      <module name="day03-code" />
+    <configuration name="MyBatisTest.testSelectByConditionSingle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day04-code-mybaits" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tql.Test1.*" />
+          <option name="PATTERN" value="com.tql.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.tql.test" />
+      <option name="MAIN_CLASS_NAME" value="com.tql.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="testSelectByConditionSingle" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4Delete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tql.Test1.Test4Delete" />
-      <module name="day03-code" />
+    <configuration name="MyBatisTest.testSelectById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day04-code-mybaits" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tql.Test1.*" />
+          <option name="PATTERN" value="com.tql.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.tql.test" />
+      <option name="MAIN_CLASS_NAME" value="com.tql.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="testSelectById" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.tql.Test1.Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.tql.Test1.Test" />
-      <module name="day03-code" />
+    <configuration name="MyBatisTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day04-code-mybaits" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.tql.Test1.*" />
+          <option name="PATTERN" value="com.tql.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.tql.test" />
+      <option name="MAIN_CLASS_NAME" value="com.tql.test.MyBatisTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.Test4Delete" />
-        <item itemvalue="应用程序.Test3update" />
-        <item itemvalue="应用程序.Test2" />
-        <item itemvalue="应用程序.com.tql.Test1.Test" />
-        <item itemvalue="应用程序.DruidDemo" />
+        <item itemvalue="JUnit.MyBatisTest.testUpdate" />
+        <item itemvalue="JUnit.MyBatisTest.add" />
+        <item itemvalue="JUnit.MyBatisTest.testSelectByConditionSingle" />
+        <item itemvalue="JUnit.MyBatisTest.testSelectByCondition" />
+        <item itemvalue="JUnit.MyBatisTest.testSelectById" />
       </list>
     </recent_temporary>
   </component>
@@ -186,8 +237,21 @@
       <workItem from="1678786450044" duration="618000" />
       <workItem from="1678787267766" duration="3783000" />
       <workItem from="1678846630806" duration="10269000" />
-      <workItem from="1678857917550" duration="4980000" />
+      <workItem from="1678857917550" duration="8852000" />
+      <workItem from="1678868867464" duration="6248000" />
+      <workItem from="1678940995842" duration="9199000" />
+      <workItem from="1678955495661" duration="6081000" />
+      <workItem from="1678961623942" duration="4145000" />
+      <workItem from="1679113430921" duration="8006000" />
     </task>
+    <task id="LOCAL-00001" summary="IdeaChanges">
+      <created>1678864851748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678864851748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +270,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="IdeaChanges" />
+    <option name="LAST_COMMIT_MESSAGE" value="IdeaChanges" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
