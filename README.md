@@ -829,6 +829,22 @@ SELECT 字段列表 FROM 表名 LIMIT  起始索引 , 查询条目数;
 
 # 索引(提高查询效率)
 
+- 1．介绍
+
+	- 索引是帮助数据库高效获取数据的数据结构。
+	
+- 2．结构
+
+	- MySQL数据库中默认的索引结构是B+tree 。
+	
+- 3．语法
+
+	- 创建: create [ unique ] index索引名on表名(字段名,...);
+	- 查询: show index from表名;
+	- 删除: drop index索引名 on表名;
+
+<br>
+
 - 创建索引
 
 ```sql
@@ -844,6 +860,8 @@ show index from表名;
 ```sql
 drop index索引名on表名;
 ```
+<br>
+
 
 > 例程:
 ```sql
