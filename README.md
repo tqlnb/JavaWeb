@@ -827,7 +827,23 @@ SELECT 字段列表 FROM 表名 LIMIT  起始索引 , 查询条目数;
 起始索引 = (当前页码 - 1) * 每页显示的条数
 ```
 
+# 索引(提高查询效率)
 
+- 创建索引
+
+```sql
+create [ unique ] index索引名on表名(字段名...);
+```
+
+- 查看索引
+```sql
+show index from表名;
+```
+
+- 删除索引
+```sql
+drop index索引名on表名;
+```
 
 
 
