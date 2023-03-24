@@ -845,7 +845,17 @@ show index from表名;
 drop index索引名on表名;
 ```
 
+> 例程:
+```sql
+-- 添加索引
+create index idx_emp_name on emp(ename);
 
+-- 查看索引
+show index from emp;
+
+-- 删除索引
+drop index idx_emp_name on emp;
+```
 
 
 
